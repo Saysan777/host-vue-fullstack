@@ -1,0 +1,26 @@
+While using mongoAtlas give role to the user 
+Go to [ database access->edit->Built-in-role->Click the option and choose "read and write to any database" ] Atlas 
+
+Create a .gitignore in server to add node_moldules file 
+
+After finishing all things i.e creating a production file i.e dist file and pasting it in Server directory , now we add the server to  our github , client lai pardaina coz we have already created production file jasma hamro html, css and js sabai hunxa and paste it in Server
+
+
+-git intit
+-git add .
+-git commit -m ""
+
+Download herkou cli  from their website and install then after "git commit" add following command 
+
+-heroku login
+
+//my id is saysanaryal2@gmail.com and pass is ibn bitwarden and bitwaredn uses saysanaryal1@gmail.com
+
+-heroku create   to create a random project in heroku
+
+Click on the link it gives you in the terminal and it'll open the site after that click on your project in the site and go to deploy option on the site
+you'll find cmd like-> heroku git:remote -a warm-hamlet-69049 in heroku cli  which is beside the github option
+
+-heroku git:remote -a warm-hamlet-69049
+
+git push heroku main
